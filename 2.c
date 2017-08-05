@@ -3,5 +3,5 @@
 
 int main()
 {
-	printf("hehe`")
+	printf("three")
 }
